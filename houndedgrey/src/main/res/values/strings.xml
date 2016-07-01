@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hounded Grey</string>
+    <string name="edit_query_hint">Type in your query</string>
+    <string name="query">query</string>
+</resources>
